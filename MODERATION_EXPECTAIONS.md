@@ -1,4 +1,4 @@
-# Moderation Expectation
+# Moderation Expectations
 
 Moderators are expected to take appropriate action when they see Code of Conduct violations when possible, contact the server administrator when not possible, and let a server admin know if they are temporarily or permanently unable to meet these expectations.
 For security reasons moderators are expected to have 2 Factor Authentication enabled on their Discord account.

@@ -1,5 +1,7 @@
 # IlluminatedSpace Community Code of Conduct
 
+## Version 1.0 
+
 ## Enforcing the Code of Conduct
 
 Each individual member of the community is responsible for following the code of conduct.

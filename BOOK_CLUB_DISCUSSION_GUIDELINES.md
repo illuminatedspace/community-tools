@@ -1,4 +1,5 @@
 # Book Club Discussion Guidelines
+Version 1.0
 
 ## Goal
 The goal of these guidelines is to facilitate a productive and respectful discourse while exploring the sensitive topics covered by the books in Book Club.
